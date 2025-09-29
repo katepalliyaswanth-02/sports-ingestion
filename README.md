@@ -114,8 +114,10 @@ Ensure IAM permissions cover EC2, S3, MediaConvert
 Verify environment variables are set in .env.
 
 
+<img width="1174" height="469" alt="image" src="https://github.com/user-attachments/assets/49c615e4-f250-4ecf-9a19-25fe79053ea3" />
 
 
+<img width="1918" height="944" alt="image" src="https://github.com/user-attachments/assets/ac4a7824-3a77-4388-ae74-ff54df438f6a" />
 
 
 
